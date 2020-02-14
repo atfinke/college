@@ -17,8 +17,9 @@ Reflection of all the projects I've worked on during my three years @ NU
 |[AR Lost and Found](https://github.com/atfinke/AR-Lost-and-Found)|See every object lost on the MTA since first app launch.|Swift / iOS|✅||
 |[AVCapture-Vision](https://github.com/atfinke/AVCapture-Vision)|Basic live object detection w/ Vision + Core ML.|Swift / iOS|✅||
 |[EECS 211](https://github.com/atfinke/EECS-211)|Fundamentals of Computer Programming II coursework.|C++|❌||
-|[DisneyMLv2](https://github.com/atfinke/DisneyMLv2/)|Disney Park wait times + ML.|Python / Scikit-learn / JS|❌|[Link](http://andrewfinke.com/dis-ml)]
-|[Internship Countdown](https://github.com/atfinke/website/)|Countdown to the start of my summer internship, reused every summer.|JS|❌|[Link](http://andrewfinke.com/apple)]
+|[DisneyMLv2](https://github.com/atfinke/DisneyMLv2/)|Disney Park wait times + ML.|Python / Scikit-learn / JS|❌|[Link](http://andrewfinke.com/dis-ml)|
+|[Heart Calendar](https://github.com/atfinke/Heart-Calendar)|See your average heart rate for calendar events.|Swift / iOS|✅|[App Store](https://apps.apple.com/us/app/heart-calendar/id1363866937?ls=1)|
+|[Internship Countdown](https://github.com/atfinke/website/)|Countdown to the start of my summer internship, reused every summer.|JS|❌|[Link](http://andrewfinke.com/apple)|
 |[YellKey Extension](https://github.com/atfinke/YellKey-Extension)|A browser extension for quick yellkey generation and entry.|JS / Safari|✅||
 |[Slack Sticker Pack](https://github.com/atfinke/SlackStickerPack)|Adds Slack workspace emojis to an iMessage sticker pack on the fly.|Swift / iOS|✅||
 |[NUCTECScraper](https://github.com/atfinke/NUCTECScraper)|Scrap NU CTECs.|Python / JS|✅|[Link](https://atfinke.github.io/NUCTECScraper/Website/index.html)|
