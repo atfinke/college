@@ -78,7 +78,7 @@ Reflection of all the projects I've worked on during my three years @ NU. ***Bol
 |[location](https://github.com/atfinke/location)|iOS app that tracks my location and reports movement to AWS + plots the data.|Swift / iOS / macOS|✅||
 |[predict](https://github.com/atfinke/predict)|SwiftUI + PredictIt experiment.|Swift / macOS|✅||
 |***[Magic](https://github.com/atfinke/Magic)***|Disney Park wait time notifications.|Swift / iOS|❌|[DLR](https://apps.apple.com/us/app/magiclines-dlr/id1486050665?ls=1) [WDW](https://apps.apple.com/us/app/magiclines-wdw/id1486055176?ls=1)|
-|[Magic Box Support](https://github.com/atfinke/Magic-Box-Support)|Magic backend.|Node.js / Heroku|❌||
+|[Magic Box Support](https://github.com/atfinke/Magic-Box-Support)|Magic backend.|Node.js / Heroku / AWS|❌||
 |[Magic Box Support Theme Parks](https://github.com/atfinke/Magic-Box-Support-Theme-Parks)|Fork of themeparks.|Node.js|✅||
 |[zshrc](https://github.com/atfinke/zshrc)|zshrc profile.|Bash|❌||
 |***[Today at Me](https://github.com/atfinke/Today-at-Me)***|My local homepage + background processing server. This is inspired by years of side projects (and/or makes use of them in some capacity).|Python / JS|✅||
