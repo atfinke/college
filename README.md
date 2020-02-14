@@ -42,7 +42,7 @@ Reflection of all the projects I've worked on during my three years @ NU
 |[Drip](https://github.com/atfinke/Drip/)|Super simple utility for helping me transcribe interviews.|Swift / macOS|✅||
 |[Rain](https://github.com/atfinke/Rain)|A spatial audio mixing multi-touch iPad app.|Swift / iOS|❌||
 |[Fidelityv2](https://github.com/atfinke/Fidelityv2)|Fetches and parses fidelity investments.|Python|✅||
-|[EECS 205](https://github.com/atfinke/EECS-205)|Fundamentals of Computer System Software.|Assembly|❌||
+|[EECS 205](https://github.com/atfinke/EECS-205)|Fundamentals of Computer System Software coursework.|Assembly|❌||
 |[EECS 213](https://github.com/atfinke/EECS-213)|Intro to Computer Systems coursework.|C|❌||
 |[EECS 214](https://github.com/atfinke/EECS-214)|Data Structures and Data Management coursework.|DSSL2|❌||
 |[Stats Utilities](https://github.com/atfinke/Stats-Utilities)|Random stat utilities for IEMS 201.|Swift / macOS|✅||
@@ -56,7 +56,7 @@ Reflection of all the projects I've worked on during my three years @ NU
 |[Google Games 2019](https://github.com/atfinke/google-games-2019)|Scratch work for Google Games 2019 - Chicago.|Python / Swift|❌||
 |[Doc Timelapse](https://github.com/atfinke/DocTimelapse)|Get snapshots of a Google Doc over time.|Python / Google Drive|✅||
 |[Make It Rain](https://github.com/atfinke/Make-It-Rain)|I decided I wanted to have water fly out my dorm room window on command...|Siri Shortcuts|✅||
-|[Free Food](https://github.com/atfinke/Free-Food)|Grabs the Postmates coupon codes for update notes.|Python|❌||
+|[Free Food](https://github.com/atfinke/Free-Food)|Grabs the Postmates coupon codes from App Store update notes.|Python|❌||
 |[EECS 321](https://github.com/atfinke/EECS-321)|Programming Languages coursework.|Racket|❌||
 |[Fruit](https://github.com/atfinke/fruit)|Collection of utilities I made for myself.|Swift / iOS / macOS / watchOS|❌||
 |[Floating Browser Player](https://github.com/atfinke/FloatingBrowserPlayer)|SwiftUI experiment for lightweight floating browser window to act like a pip for websites that still don't support it.|Swift / macOS|✅||
