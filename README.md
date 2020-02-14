@@ -80,7 +80,7 @@ Reflection of all the projects I've worked on during my three years @ NU
 |[Magic Box Support Theme Parks](https://github.com/atfinke/Magic-Box-Support-Theme-Parks)|Fork of themeparks.|Node.js|✅||
 |[zshrc](https://github.com/atfinke/zshrc)|zshrc profile.|Bash|❌||
 |[Today at Me](https://github.com/atfinke/Today-at-Me)|My local homepage + background processing server. This is inspired by years of side projects (and/or makes use of them in some capacity).|Python / JS|✅||
-|[Fees](https://github.com/atfinke/website)|Live 'national debt clock' but for NU student tuition per quarter.|JS|✅||
+|[Fees](https://github.com/atfinke/website)|Live 'national debt clock' but for NU student tuition per quarter.|JS|❌|[Link](http://andrewfinke.com/fees)|
 |[Class Descriptions](https://github.com/atfinke/Class-Descriptions)|Grabs all the northwestern class descriptions sticks them in a csv.|Python|✅||
 
 
