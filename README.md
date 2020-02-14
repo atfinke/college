@@ -18,6 +18,7 @@ Reflection of all the projects I've worked on during my three years @ NU
 |[AVCapture-Vision](https://github.com/atfinke/AVCapture-Vision)|Basic live object detection w/ Vision + Core ML.|Swift / iOS|✅||
 |[EECS 211](https://github.com/atfinke/EECS-211)|Fundamentals of Computer Programming II coursework.|C++|❌||
 |[DisneyMLv2](https://github.com/atfinke/DisneyMLv2/)|Disney Park wait times + ML.|Python / Scikit-learn / JS|❌|[Link](http://andrewfinke.com/dis-ml)|
+|[Camera - IOSurfaceCapture](https://github.com/atfinke/Camera-IOSurfaceCapture)|Capture UIWindow screenshot with camera input.|Swift / iOS|✅||
 |[Heart Calendar](https://github.com/atfinke/Heart-Calendar)|See your average heart rate for calendar events.|Swift / iOS|✅|[App Store](https://apps.apple.com/us/app/heart-calendar/id1363866937?ls=1)|
 |[Internship Countdown](https://github.com/atfinke/website/)|Countdown to the start of my summer internship, reused every summer.|JS|❌|[Link](http://andrewfinke.com/apple)|
 |[YellKey Extension](https://github.com/atfinke/YellKey-Extension)|A browser extension for quick yellkey generation and entry.|JS / Safari|✅||
@@ -42,6 +43,7 @@ Reflection of all the projects I've worked on during my three years @ NU
 |[Drip](https://github.com/atfinke/Drip/)|Super simple utility for helping me transcribe interviews.|Swift / macOS|✅||
 |[Rain](https://github.com/atfinke/Rain)|A spatial audio mixing multi-touch iPad app.|Swift / iOS|❌||
 |[Fidelityv2](https://github.com/atfinke/Fidelityv2)|Fetches and parses fidelity investments.|Python|✅||
+|[Spotify - Add to Playlist](https://github.com/atfinke/Spotify-Add-to-Playlist)|App that when launched, attempts to add the currently playing song in Spotify to a specified playlist, then swiftly exits, designed to be used as a service.|Swift / macOS|✅||
 |[EECS 205](https://github.com/atfinke/EECS-205)|Fundamentals of Computer System Software coursework.|Assembly|❌||
 |[EECS 213](https://github.com/atfinke/EECS-213)|Intro to Computer Systems coursework.|C|❌||
 |[EECS 214](https://github.com/atfinke/EECS-214)|Data Structures and Data Management coursework.|DSSL2|❌||
