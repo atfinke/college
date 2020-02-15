@@ -7,6 +7,7 @@
 * [Freshman Year (2017 - 2018)](#freshman-year)
 * [Sophmore Year (2018 - 2019)](#sophomore-year)
 * [Junior Year (2019 - 2020)](#junior-year)
+<br/><br/>
 
 ## Freshman Year
 
@@ -40,7 +41,8 @@
 |[Language Checker](https://github.com/atfinke/LanguageChecker)| Checks web pages for grammar issues. |Python|❌|
 |***[Lake](https://github.com/atfinke/Lake)***| A high-fidelity low-cost rapid prototyping system. [Paper @ ACM](https://dl.acm.org/doi/10.1145/3290607.3308455).|Swift / iOS / watchOS|❌|
 |[Lake Server](https://github.com/atfinke/Lake-Server)|Server for Lake.|Node.js / Heroku|✅|
-
+ 
+ <br/><br/>
 ## Sophomore Year
 
 | Project  | Description |  Languages / Systems | Public Repo |
@@ -70,7 +72,8 @@
 |[Floating Browser Player](https://github.com/atfinke/FloatingBrowserPlayer)|SwiftUI experiment for lightweight floating browser window to act like a pip for websites that still don't support it.|Swift / macOS|✅|
 |[Playlist Switcher](https://github.com/atfinke/PlaylistSwitcher)|Command-tab like behavior for switching active Spotify playlist.|Swift / macOS|✅|
 |***[Playlist Curator](https://github.com/atfinke/PlaylistCurator)***|Utility for easily removing tracks from Spotify playlists.|Swift / iOS / watchOS / macOS|✅|
-
+ 
+ <br/><br/>
 ## Junior Year
 
 | Project  | Description |  Languages / Systems | Public Repo |
