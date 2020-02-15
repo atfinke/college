@@ -4,6 +4,10 @@
 
 ***Bold + Italics*** are my favorites.
 
+* [Freshman Year (2017 - 2018)](#freshman-year)
+* [Sophmore Year (2018 - 2019)](#sophomore-year)
+* [Junior Year (2019 - 2020)](#junior-year)
+
 ## Freshman Year
 
 | Project  | Description |  Languages / Systems | Public Repo |
