@@ -93,3 +93,6 @@
 |***[Today at Me](https://github.com/atfinke/Today-at-Me)***|My local homepage + background processing server. This is inspired by years of side projects (and/or makes use of them in some capacity).|Python / JS|✅|
 |[Fees](https://github.com/atfinke/website)|[Web page](http://andrewfinke.com/fees) with live 'national debt clock' but for NU student tuition per quarter.|JS|❌|
 |[Class Descriptions](https://github.com/atfinke/Class-Descriptions)|Grabs all the northwestern class descriptions sticks them in a csv.|Python|✅|
+|[rl-blackjack](https://github.com/atfinke/rl-blackjack)|Curious if I can create a reinforcement learning gym env for blackjack.|Python|✅|
+|[Calendar Leaderboard](https://github.com/atfinke/Calendar-Leaderboard)|Tool to see who I spend the most time with.|Python|✅|
+
