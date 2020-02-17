@@ -95,4 +95,4 @@
 |[Class Descriptions](https://github.com/atfinke/Class-Descriptions)|Grabs all the northwestern class descriptions sticks them in a csv.|Python|✅|
 |[rl-blackjack](https://github.com/atfinke/rl-blackjack)|Curious if I can create a reinforcement learning gym env for blackjack.|Python|✅|
 |[Calendar Leaderboard](https://github.com/atfinke/Calendar-Leaderboard)|Tool to see who I spend the most time with.|Python|✅|
-
+|[NUEnrollmentScraper](https://github.com/atfinke/NUEnrollmentScraper)|Gets class enrollment status.|Python|✅|
