@@ -86,7 +86,7 @@
 |[countdown](https://github.com/atfinke/countdown)|watchOS complication that shows how long until my current class is over.|Swift / watchOS|✅|
 |[location](https://github.com/atfinke/location)|iOS app that tracks my location and reports movement to AWS + plots the data.|Swift / iOS / macOS|✅|
 |[predict](https://github.com/atfinke/predict)|SwiftUI + PredictIt experiment.|Swift / macOS|✅|
-|***[Magic](https://github.com/atfinke/Magic)***|Disney Park wait time notifications. [DLR](https://apps.apple.com/us/app/magiclines-dlr/id1486050665?ls=1). [WDW](https://apps.apple.com/us/app/magiclines-wdw/id1486055176?ls=1).|Swift / iOS|❌|
+|***[Magic](https://github.com/atfinke/Magic)***|Disney Park wait time notifications. [DLR](https://apps.apple.com/us/app/magiclines-dlr/id1486050665?ls=1). [WDW](https://apps.apple.com/us/app/magiclines-wdw/id1486055176?ls=1).|Swift / iOS, SwiftUI / watchOS|❌|
 |[Magic Box Support](https://github.com/atfinke/Magic-Box-Support)|Magic backend.|Node.js / Heroku / AWS|❌|
 |[Magic Box Support Theme Parks](https://github.com/atfinke/Magic-Box-Support-Theme-Parks)|Fork of themeparks.|Node.js|✅|
 |[zshrc](https://github.com/atfinke/zshrc)|zshrc profile.|Bash|❌|
