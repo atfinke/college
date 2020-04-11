@@ -96,3 +96,5 @@
 |[rl-blackjack](https://github.com/atfinke/rl-blackjack)|Curious if I can create a reinforcement learning gym env for blackjack.|Python|✅|
 |[Calendar Leaderboard](https://github.com/atfinke/Calendar-Leaderboard)|Tool to see who I spend the most time with.|Python|✅|
 |[NUEnrollmentScraper](https://github.com/atfinke/NUEnrollmentScraper)|Gets class enrollment status.|Python|✅|
+|[PencilKit Layers](https://github.com/atfinke/PencilKit-Layers)|Basic PencilKit exploration with layers.|Swift / iOS|✅|
+|[NUCOVID19Watcher](https://github.com/atfinke/NUCOVID19Watcher)|Checks for confirmed Northwestern COVID-19 cases.|Python|✅|
