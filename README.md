@@ -98,3 +98,4 @@
 |[NUEnrollmentScraper](https://github.com/atfinke/NUEnrollmentScraper)|Gets class enrollment status.|Python|✅|
 |[PencilKit Layers](https://github.com/atfinke/PencilKit-Layers)|Basic PencilKit exploration with layers.|Swift / iOS|✅|
 |[NUCOVID19Watcher](https://github.com/atfinke/NUCOVID19Watcher)|Checks for confirmed Northwestern COVID-19 cases.|Python|✅|
+|[Gravity Putt](https://github.com/atfinke/Gravity-Putt)|Endless mini golf in space.|Swift / iOS / tvOS / macOS|✅|
