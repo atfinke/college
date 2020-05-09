@@ -100,4 +100,4 @@
 |[NUCOVID19Watcher](https://github.com/atfinke/NUCOVID19Watcher)|Checks for confirmed Northwestern COVID-19 cases.|Python|✅|
 |[Gravity Putt](https://github.com/atfinke/Gravity-Putt)|Endless mini golf in space.|Swift / iOS / tvOS / macOS|✅|
 |[CIV_ENV 220](https://github.com/atfinke/CIV_ENV-220)|Structural Art coursework.|Python / Jupyter Notebook|❌|
-|[playlists](https://github.com/atfinke/playlists)|8+ years of public playlists.|Markdown|❌|
+|[playlists](https://github.com/atfinke/playlists)|8+ years of public playlists.|Markdown|✅|
