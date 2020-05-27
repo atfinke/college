@@ -101,3 +101,7 @@
 |[Gravity Putt](https://github.com/atfinke/Gravity-Putt)|Endless mini golf in space.|Swift / iOS / tvOS / macOS|✅|
 |[CIV_ENV 220](https://github.com/atfinke/CIV_ENV-220)|Structural Art coursework.|Python / Jupyter Notebook|❌|
 |[playlists](https://github.com/atfinke/playlists)|8+ years of public playlists.|Markdown|✅|
+
+|[logger](https://github.com/atfinke/logger)|A personal keylogger|Swift / macOS|✅|
+|[RX](https://github.com/atfinke/RX)|RX, R1, R2|Swift / SwiftUI / macOS, Python / Microcontroller, CAD|✅|
+|[Stay at Home Thoughts](https://github.com/atfinke/Stay-at-Home-Thoughts)|Thoughts and notes on things I've been working on during the COVID-19 stay at home order in Illinois.|Markdown|✅|
