@@ -2,11 +2,17 @@
 
 ### Reflection of all the projects I've worked on during my three years @ NU. 
 
+<br>
+
+Final Update: Well it looks like the journey is over. Some thoughts on this list over at my stay at home projects [journal](https://github.com/atfinke/Stay-at-Home-Thoughts). On to the next adventure.
+
+---
+
 ***Bold + Italics*** are my favorites.
 
 * [Freshman Year (2017 - 2018)](#freshman-year)
 * [Sophmore Year (2018 - 2019)](#sophomore-year)
-* [Junior Year (2019 - 2020)](#junior-year)
+* [Junior/Senior Year (2019 - 2020)](#junior-year)
 <br/><br/>
 
 ## Freshman Year
